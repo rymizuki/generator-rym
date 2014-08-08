@@ -3,7 +3,7 @@
 
 expect = require "expect.js"
 
-describe "grunt-plugin generator", ->
+describe "rym generator", ->
   app = null
   beforeEach ->
     app = require "../grunt-plugin"
